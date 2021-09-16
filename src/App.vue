@@ -4,7 +4,6 @@
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import Header from './components/Header'
 
 export default {
